@@ -2,6 +2,8 @@
 title: "Best practices for Multi-fidelity Bayesian Optimization in materials and molecular research"
 collection: publications
 category: manuscripts
+header:
+  teaser: mfbo.png
 permalink: /publication/2025-06-01-multi-fidelity-bayesian-optimization
 date: 2025-06-01
 venue: 'Nature Computational Science'

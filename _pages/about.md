@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD student working in cheminformatics and machine learning applied to chemistry. My research focuses on the design of bioactive and functional molecules derived from biomass using synthesizability-constrained algorithms (mainly, reaction template-based and language-based generative models approaches). I am also interested in applying active learning techniques (mostly Bayesian Optimization) for the acceleration of wet-lab research.
+Hi, I'm Víctor! I'm a PhD student working in cheminformatics and machine learning applied to chemistry. My research focuses on the design of bioactive and functional molecules derived from biomass using synthesis-constrained algorithms (mainly, reaction template-based and language-based generative models approaches). I am also interested in applying active learning techniques (mostly Bayesian Optimization) for the acceleration of wet-lab research.
 
 I am a team player in an intersection between the computational and chemical sciences, able to translate real lab problems to the algorithmic domain. I believe that artificial intelligence can help to develop a greener and more sustainable chemical industry and accelerate innovation.
 

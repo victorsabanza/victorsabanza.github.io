@@ -32,42 +32,9 @@ Work experience
   * 5-month internship at the Digital Chemistry lab led by prof. Lee Cronin
   * Worked at the intersection of cheminformatics and experimental chemistry
 
-Skills
-======
-* Python
-* ML model development (Pytorch, sklearn)
-* Cheminformatics (Rdkit)
-* Version control (Git and Github)
-* Organic chemistry
-* Public speaking and communication
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
 Prizes and Awards
 ======
 * **IUPAC Periodic Table of Younger Chemists Award** — Meitnerium (June 2019)
   * Issued by the International Union of Pure and Applied Chemistry (IUPAC) and co-sponsored by the International Younger Chemists Network (IYCN). Honours 118 outstanding younger chemists from around the world who embody the mission and core values of IUPAC.
 * **Extraordinary Prize** — BSc Chemistry (March 2021)
   * Prize to the best student in Chemistry after finishing the BSc
-
-Languages
-======
-* Spanish (native)
-* English (proficient, C1)
-* French (intermediate, B2)
-* Italian (basic, A1)
-
-References
-======
-* Prof. Philippe Schwaller (EPFL, tenure-track assistant professor): philippe.schwaller@epfl.ch
-* Dr. Loïc Roch (CTO, Atinary Technologies): loic@atinary.com

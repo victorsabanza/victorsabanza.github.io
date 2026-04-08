@@ -7,6 +7,8 @@ excerpt: ""
 image: green_chem_prize.jpeg
 ---
 
+<img src="/images/green_chem_prize.jpeg" alt="GCIPR Data Science and Modeling for Green Chemistry Award" style="max-width: 500px; width: 100%; border-radius: 4px; margin-bottom: 15px;">
+
 I’m thrilled to announce that, together with my colleague [Jeff Guo](https://guojeff.github.io/), we received the GCIPR Data Science and Modeling for Green Chemistry Award! 🏆
 
 In this work, we show how reaction constraints can be imposed in molecular generative models to promote “greener” routes towards property-optimized molecules. Best of all: everything is open-source! 🌱💻
